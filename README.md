@@ -16,6 +16,12 @@ Approved L1 assets bridged to Europa: ```Origin``` token addresses:
 - PROSPECT : ```0xA30cA600b8E722E2513B7738493F410a6Ae4a373```
 - EXD : ```0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA```
 
+## Native Token Addresses
+
+Native tokens do not require additional wrapper contract for s2s transfers. 
+
+- AQUA : ```0xF7F957D88768126916dAF3C1705D13C291d2B7D8```
+
 ## ```Wrapped Origin``` Token Addresses 
 The addresses below are required for ```s2s``` transfers
 
